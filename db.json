@@ -1,4 +1,4 @@
-headers: [
+[
         {
           text: 'Dessert (100g serving)',
           align: 'start',
@@ -13,7 +13,7 @@ headers: [
         { text: 'Iron (%)', value: 'iron', active: true, },
         { text: '', value: 'actions', active: true, sortable: false, width: '20px', class: 'px-0'}
       ],
-      desserts: [
+ [
         {
           name: 'Frozen Yogurt',
           calories: 159,
@@ -94,5 +94,5 @@ headers: [
           protein: 7,
           iron: '6%',
         },
-      ],
-    }
+      ]
+    
