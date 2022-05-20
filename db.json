@@ -12,8 +12,8 @@
         { text: 'Protein (g)', value: 'protein', active: true, },
         { text: 'Iron (%)', value: 'iron', active: true, },
         { text: '', value: 'actions', active: true, sortable: false, width: '20px', class: 'px-0'}
-      ],
- [
+]
+[
         {
           name: 'Frozen Yogurt',
           calories: 159,
@@ -94,5 +94,5 @@
           protein: 7,
           iron: '6%',
         },
-      ]
+]
     
