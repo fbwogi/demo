@@ -1,5 +1,4 @@
-menu: false,
-      headers: [
+headers: [
         {
           text: 'Dessert (100g serving)',
           align: 'start',
